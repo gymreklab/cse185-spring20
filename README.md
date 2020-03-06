@@ -24,10 +24,10 @@ See [Resources](https://github.com/gymreklab/cse185-spring20/blob/master/resourc
 |------|-------|-----------|-------|-----------|
 | 1 | Intro to NGS | Course overview + NGS intro | NGS alignment and variant calling | Mutation hunting - find the needle in a haystack | 
 |  2 | Genome assembly | Intro to assembly | More assembly - filling the gaps | So where do all those reference genomes come from, anyway? <br>Quiz 1 |
-|  3 | Population genetics | Intro to pop gen | GWAS and p-values | Predicting height from your genome |
+|  3 | Population genetics | Intro to pop gen | GWAS | Predicting height from your genome |
 |  4 | RNA-seq | Intro to RNA-seq | Differential expression |  You are what you eat <br>Quiz 2  |
 |  5 | ChIP-seq | ChIP-sequencing and epigenomics| Motif analysis |  The dark matter of the genome |
-|  6 | Single cell | scRNA-seq overview |  Don’t get lost in the crowd <br>Quiz 3  |
+|  6 | Single cell | scRNA-seq overview | scRNA-seq analysis | Don’t get lost in the crowd <br>Quiz 3  |
 |  7 | Proteomics | Proteomics +mass spec intro | Mass spec database search |  CSI: Proteomics |
 |  8 | Projects | Project tips and guidelines | Special topic #1: Deep Learning  | Independent projects |
 |  9 | Projects | Memorial Day - no lecture | Special topic #2: Genome editing | Independent projects |
