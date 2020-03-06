@@ -73,7 +73,7 @@ Project resports will be structured the same as a lab report with the following 
 
 Other notes:
 * The report should be in PDF format, 8-10 pages. Font Arial 11 with 1-inch margins. 1.5-line spacing. References and appendix don't count toward page limit. 
-* Reports should be turned in via email. Email your proposal to all the course instructors (mgymrek@eng.ucsd.edu, cew003@eng.ucsd.edu, s1saini@eng.ucsd.edu, jmargoli@eng.ucsd.edu) with subject line [CSE185-REPORT-GROUP#], where  "#" should be your group number.
+* Reports should be turned in via email. Email your proposal to all the course instructors with subject line [CSE185-REPORT-GROUP#], where  "#" should be your group number.
 * If you write your own scripts, please submit those along with your assignment.
 
 ### Report scoring:
