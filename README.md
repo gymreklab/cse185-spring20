@@ -33,4 +33,4 @@ See [Resources](https://github.com/gymreklab/cse185-spring20/blob/master/resourc
 |  7 | Proteomics | Proteomics +mass spec intro | Mass spec database search |  CSI: Proteomics |
 |  8 | Projects | Project tips and guidelines | Special topic #1: Deep Learning  | Independent projects |
 |  9 | Projects | Memorial Day - no lecture | Special topic #2: Genome editing | Independent projects |
-|  10 | Projects | Diversity in human genomics | No lecture | Independent projects |
+|  10 | Projects | Special topic #3: Diversity in human genomics | No lecture | Independent projects |
