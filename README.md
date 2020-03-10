@@ -1,6 +1,8 @@
 # cse185-spring20
 Course website for CSE 185 Spring 2020
 
+**Under construction!!***
+
 See the [course syllabus](https://github.com/gymreklab/cse185-spring20/blob/master/cse185-spring20-syllabus.md) for more details.<br>
 
 # Resources
