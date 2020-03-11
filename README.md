@@ -6,13 +6,13 @@ Course website for CSE 185 Spring 2020
 See the [course syllabus](https://github.com/gymreklab/cse185-spring20/blob/master/cse185-spring20-syllabus.md) for more details.<br>
 
 # Resources
-Lecture slides will be posted here and on Canvas throughout the quarter. 
+Lecture slides and zoom recordings will be posted here and on Canvas throughout the quarter. 
 <br>
 Assignments will be posted each week on our course JupyterHub at [datahub.ucsd.edu](datahub.ucsd.edu).
 <br>
 We will use [Piazza](https://piazza.com/ucsd/spring2020/cse185/home) for discussions about assignments.
 <br>
-Grades will be posted on Canvas.
+Grades will be posted on Gradesource.
 
 See
 * [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
