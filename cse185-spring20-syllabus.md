@@ -1,15 +1,17 @@
 # CSE185 Spring 2020 Syllabus
 
+**Note: for Spring 2020, due to the COVID-19 situation, this entire course will be held remotely. No in-person attendance is required.**
+
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: TBD
+**TAs**: Cynthia Wu, An Zheng
 
-**Lectures**: MW 9-9:50am CENTR 113
+**Lectures**: MW 9-9:50am (Zoom)
 
-**Labs**: MW 10-11:50am EBU3B (B230, B240, and B260)
+**Labs**: MW 10-11:50am (Zoom)
 
 **Office Hours**:
-* Melissa 3:30-4:30pm Thursdays and Fridays CSE 4216
+* Melissa 3:30-4:30pm Thursdays and Fridays (Zoom)
 * TA OH TBD
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
@@ -33,9 +35,7 @@ By the end of the course, students will:
 The course consists of two lectures (1 hour) and two lab sessions (2 hours) each week. 
 Lectures will cover background material needed to complete the lab projects. Labs will consist of hands-on assignments focusing on real-world analyses of biological datasets.
 
-Attendance at lab and lecture is not mandatory but highly encouraged.
-
-For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. You may collaborate on lab assignments, but all students must turn in the assignment separately. Lab assignments are due the following Monday at 11:59pm. Assignments will be completed using JupyterLab.
+For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. You may collaborate on lab assignments, but all students must turn in the assignment separately. Lab assignments are due the following Sunday at 11:59pm. Assignments will be completed using JupyterLab.
 
 Grades will be released using Gradesource. We will strive to post grades within one week of the due date of each lab.
 
@@ -53,7 +53,7 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 | 4 | 04/20/2020 | **Lab 4: RNA-seq** | 
 | 5 | 04/27/2020 | **Lab 5: ChIP-seq** | 
 | 6 | 05/04/2020 | **Lab 6: Single cell** | 
-| 7 | 05/11/2020 | **Lab 7: Proteomics** | 
+| 7 | 05/11/2020 | **Lab 7: Long reads** | 
 | 8 | 05/18/2020 | **Independent Projects** |
 | 9 | 05/25/2020 | **Independent Projects** |
 | 10 | 06/01/2020 | **Independent Projects** |
@@ -62,11 +62,8 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 Grades will be based on:
 
 * Homework (70%): Each lab counts for 10% total (2% for prelab, 8% for main lab assignment)
-* Quizzes (9%): Each quiz is worth 3% each
-* Final projects (16%): Proposal 3%, report 10%, presentation 3%
-* Participation (5%)
-
-Participation points can be earned in multiple ways. If you do any of these things you will get full points: (1) actively participate in lecture by asking and answering questions (2) regularly attend office hours (3) asking and answering helpful questions on Piazza (at least 10 contributions) or (4) providing helpful and constructive feedback for how labs or lectures can be improved.
+* Quizzes (15%): Each quiz is worth 5% each
+* Final projects (15%): Proposal 2%, report 10%, presentation 3%
 
 At the end of the quarter, if at least 90% of students fill out a course evaluation the lowest scoring weekly homework assignment will be dropped.
 
