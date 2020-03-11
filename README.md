@@ -14,7 +14,7 @@ Assignments will be posted each week on our course JupyterHub at [datahub.ucsd.e
 <br>
 We will use [Piazza](https://piazza.com/ucsd/spring2020/cse185/home) for discussions about assignments.
 <br>
-Grades will be posted on Gradesource.
+Grades will be posted on Canvas.
 
 See
 * [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
