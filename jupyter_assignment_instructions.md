@@ -18,8 +18,8 @@ When you are ready to submit the assignment, simply click "Submit"
 
 # Turning in assignments late
 
-* Submissions are due on Mondays 11:59:59 PM
-* Late submissions will be accepted until 4 days after the deadline (Friday 11:59:59 PM)
+* Submissions are due on Sundays 11:59:59 PM
+* Late submissions will be accepted until 4 days after the deadline (Thursday 11:59:59 PM)
 * 5 points will be deducted for each late day (see syllabus for the late policy details).
 * Only the grade on the latest submission will be considered. For example, if the grade received for the lab submitted before the deadline is higher than the grade received on the latest submission, then the lower grade will be considered. So please do not click "submit" again after you have submitted the version you want to be graded.
 
