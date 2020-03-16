@@ -11,6 +11,7 @@ Lab 1:
 * `cat`
 * `wc`
 * `mkdir`
+* `cut`
 * Pipes (`|`)
 * Redirect std output to a file (`>`)
 
