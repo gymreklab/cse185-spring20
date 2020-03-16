@@ -12,6 +12,7 @@ Lab 1:
 * `wc`
 * `mkdir`
 * `cut`
+* `md5sum`
 * Pipes (`|`)
 * Redirect std output to a file (`>`)
 
