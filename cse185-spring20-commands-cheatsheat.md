@@ -1,6 +1,6 @@
 We will use this document to keep track of the UNIX commands and Python skills we learn throughout the lab assignments.
 
-## UNIX Commands
+## Standard UNIX Commands
 
 Lab 1:
 * `pwd`
@@ -11,6 +11,11 @@ Lab 1:
 * `cat`
 * Pipes (`|`)
 * `wc`
+* `mkdir`
+
+## Bioinformatics command-line tools
+Lab 1:
+* `fastqc`
 
 ## Python skills
 * Variables
