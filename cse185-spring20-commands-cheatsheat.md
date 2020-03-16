@@ -9,14 +9,16 @@ Lab 1:
 * `head`
 * `tail`
 * `cat`
-* Pipes (`|`)
 * `wc`
 * `mkdir`
+* Pipes (`|`)
+* Redirect std output to a file (`>`)
 
 ## Bioinformatics command-line tools
 Lab 1:
 * `fastqc`
 * `bwa`
+* `samtools`
 
 ## Python skills
 * Variables
