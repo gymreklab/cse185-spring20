@@ -16,6 +16,7 @@ Lab 1:
 ## Bioinformatics command-line tools
 Lab 1:
 * `fastqc`
+* `bwa`
 
 ## Python skills
 * Variables
