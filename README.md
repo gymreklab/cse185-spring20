@@ -26,7 +26,7 @@ See
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
 |------|-------|-----------|-------|-----------|
-| 1 | Intro to NGS | Course overview + NGS intro | NGS alignment and variant calling | Mutation hunting - find the needle in a haystack | 
+| 1 | Intro to NGS | Course overview + NGS intro | NGS alignment and variant calling | Mutation hunting - find the needle in a haystack **due 04/05/20** (no penalty up to 04/12/20)  | 
 |  2 | Genome assembly | Intro to assembly | More assembly - filling the gaps | So where do all those reference genomes come from, anyway? <br>Quiz 1 |
 |  3 | Population genetics | Intro to pop gen | GWAS | Predicting height from your genome |
 |  4 | RNA-seq | Intro to RNA-seq | Differential expression |  You are what you eat <br>Quiz 2  |
