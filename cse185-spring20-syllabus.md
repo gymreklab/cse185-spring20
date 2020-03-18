@@ -61,7 +61,7 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 # Grading
 Grades will be based on:
 
-* Homework (70%): Each lab counts for 10% total (2% for prelab, 8% for main lab assignment)
+* Homework (70%): Each lab counts for 10% total (usually 2% for exercises, 8% for main lab assignment)
 * Quizzes (15%): Each quiz is worth 5% each
 * Final projects (15%): Proposal 2%, report 10%, presentation 3%
 
