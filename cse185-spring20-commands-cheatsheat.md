@@ -4,7 +4,7 @@ We will use this document to keep track of the UNIX commands and Python skills w
 
 Lab 1:
 * `pwd`
-* `ls`, `ls -lh`
+* `ls`
 * `cd`
 * `head`
 * `tail`
@@ -13,6 +13,8 @@ Lab 1:
 * `mkdir`
 * `cut`
 * `md5sum`
+* `curl`
+* `grep`
 * Pipes (`|`)
 * Redirect std output to a file (`>`)
 
@@ -21,8 +23,10 @@ Lab 1:
 * `fastqc`
 * `bwa`
 * `samtools`
+* `VarScan`
 
 ## Python skills
 * Variables
 * Dictionaries
 * Functions
+* Lists
