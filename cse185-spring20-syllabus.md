@@ -11,8 +11,8 @@
 **Labs**: MW 10-11:50am (Zoom)
 
 **Office Hours**:
-* Melissa 3:30-4:30pm Thursdays and Fridays (Zoom)
-* TA OH TBD
+* Melissa TBD (Zoom)
+* TA TBD (Zoom)
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
