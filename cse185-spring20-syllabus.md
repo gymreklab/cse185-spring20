@@ -53,7 +53,7 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 | 4 | 04/20/2020 | **Lab 4: RNA-seq** | 
 | 5 | 04/27/2020 | **Lab 5: ChIP-seq** | 
 | 6 | 05/04/2020 | **Lab 6: Single cell** | 
-| 7 | 05/11/2020 | **Lab 7: Long reads** | 
+| 7 | 05/11/2020 | **Lab 7: Phylogenetics** | 
 | 8 | 05/18/2020 | **Independent Projects** |
 | 9 | 05/25/2020 | **Independent Projects** |
 | 10 | 06/01/2020 | **Independent Projects** |
