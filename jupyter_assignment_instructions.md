@@ -10,7 +10,7 @@
 
 4. Look for released assignments and "fetch" the assignment.
 
-5. Once fetched, you should be able to see the individual notebook files for each lab. Click prelab 1 to begin!
+5. Once fetched, you should be able to see the individual notebook files for each lab. 
 
 ## Submitting assignments
 
