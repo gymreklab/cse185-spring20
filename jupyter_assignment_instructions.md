@@ -35,10 +35,12 @@ Please request regrades through private Piazza messages to ensure we see them.
 
 ## Assignment descriptions
 
-<a name="lab1">
+<a name="lab1"></a>
 
 ### Lab 1: "Next generation sequencing and mutation hunting"
- 
+
+**Due: Sunday 04/05/20 11:59pm** (No points taken off until after 04/12/20)
+
 Follow instructions above to navigate to the Lab1 assignment on datahub.
 
 You will need to complete four Jupyter notebooks for Lab 1:
