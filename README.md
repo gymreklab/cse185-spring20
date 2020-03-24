@@ -1,9 +1,10 @@
 # cse185-spring20
 Course website for CSE 185 Spring 2020
 
+**Under construction!!***
+**This page is no longer being maintained. All material will be updated on Canvas this quarter.**
 **Note: for Spring 2020, due to the COVID-19 situation, this entire course will be held remotely. No in-person attendance is required.**
 
-**Under construction!!***
 
 See the [course syllabus](https://github.com/gymreklab/cse185-spring20/blob/master/cse185-spring20-syllabus.md) for more details.<br>
 
