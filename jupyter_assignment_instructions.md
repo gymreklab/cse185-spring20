@@ -12,6 +12,12 @@
 
 5. Once fetched, you should be able to see the individual notebook files for each lab. 
 
+## Getting help with assignments
+
+During lab hours, you will be able to get one on one help with the assignments. There will be a zoom meeting with both the TAs. A brief overview of the lab will be given at the beginning of the session. Afterwards, you can sign up for one on one help with the TA in this google doc (https://docs.google.com/document/d/1ApHRXcQwFuc-D5A3H25581jeDYtBC144x-UGViYWAlU/edit?usp=sharing). The TAs will go down the list and invite those who signed up to an individual meeting from the main zoom meeting. You can add your name to the queue anytime during the lab session. It is also important to note that in order to receive help, you will have to be in the main zoom meeting when the TAs get to your name in the list. Otherwise, the TAs will go help the next person in the list. The TAs will cross out names after people have been helped. 
+
+Instructor and TA office hours are also available for you to receive help on the assignments. Whether it's one on one help or a group discussion will be decided by those holding the office hours.
+
 ## Submitting assignments
 
 From the assignments tab, for each notebook, you can click "Validate" to check that you pass all visible autograder tests. 
